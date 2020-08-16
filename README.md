@@ -1,4 +1,4 @@
-## Gabriel Neves <span>&#x1f1e7;&#x1f1f7;</span> :it:
+## Gabriel Neves :brazil::it:
 Just a brazilian guy who loves math, technology, sports and art.  
 I am highly familiar with Python and Data Science projects, especially with data wrangling and exploratory data analysis.  
 
@@ -6,7 +6,7 @@ I am highly familiar with Python and Data Science projects, especially with data
 
 💼 Currently working with DataOps and Data Science related projects in the industry.    
 👯 I’m looking to collaborate with Python projects, especially if it can help other people.  
-🌱 Learning everything that I can  
+🌱 Learning new things everyday.  
 ⚽ Hobbies: watching and playing soccer, surfing, painting, writing, listening to music and watching movies.  
 🔭 Goals: fight social inequality in Brazil, create solutions that positively impact society, travel to as many countries as possible.  
 <br>
@@ -30,4 +30,4 @@ I am highly familiar with Python and Data Science projects, especially with data
 <br>
 
 ### Visited Countries
-🇧🇷 🇨🇱 🇵🇾 🇺🇾 🇦🇷 🇧🇸 🇰🇳 🇱🇨 🇸🇽 🇲🇽 🇺🇸 🇵🇹 🇪🇸
+🇧🇷 🇨🇱 🇵🇾 🇺🇾 🇦🇷 🇧🇸 🇰🇳 🇱🇨 🇸🇽 🇲🇽 🇺🇸 🇵🇹 🇪🇸 🏴󠁧󠁢󠁥󠁮󠁧󠁿 
