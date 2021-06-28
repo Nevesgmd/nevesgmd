@@ -23,7 +23,7 @@ I am highly familiar with software engineering projects, especially in the back-
 [<img align="left" alt="PostgreSQL" width="18px" src="https://simpleicons.org/icons/postgresql.svg" />](https://www.postgresql.org/)
 [<img align="left" alt="MongoDB" width="18px" src="https://simpleicons.org/icons/mongodb.svg" />](https://www.mongodb.com/)
 [<img align="left" alt="Javascript" width="18px" src="https://simpleicons.org/icons/javascript.svg" />](https://www.javascript.com/)
-[<img align="left" alt="NodeJS" width="18px" src="http://simpleicons.org/icons/node-dot-js.svg" />](https://nodejs.org/)
+[<img align="left" alt="NodeJS" width="18px" src="https://simpleicons.org/icons/nodedotjs.svg" />](https://nodejs.org/)
 [<img align="left" alt="React" width="18px" src="http://simpleicons.org/icons/react.svg" />](https://reactjs.org/)
 [<img align="left" alt="JupyterNotebook" width="18px" src="https://simpleicons.org/icons/jupyter.svg" />](https://jupyter.org/)
 [<img align="left" alt="Jenkins" width="18px" src="https://simpleicons.org/icons/jenkins.svg" />](https://www.jenkins.io/)
