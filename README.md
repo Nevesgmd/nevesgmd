@@ -4,8 +4,8 @@ I am highly familiar with software engineering projects, especially in the back-
 
 ### I'm information systems student at UFSC and a Software Engineer at Aquarela Advanced Analytics  
 
-💼 Currently working as a Scrum Master and Software Engineer in the Data Science/AI industry.    
-👯 I’m looking to collaborate with Python projects, especially if it can help other people.  
+💼 Currently working as Scrum Master and Software Engineer in the Data Science/AI industry.    
+👯 I’m looking to collaborate with Python projects.  
 🌱 Learning new things everyday.  
 ⚽ Hobbies: watching and playing soccer, surfing, painting, writing, listening to music and watching movies.  
 🔭 Goals: fight social inequality in Brazil, create solutions that positively impact society, travel to as many countries as possible.  
