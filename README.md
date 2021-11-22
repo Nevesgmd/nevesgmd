@@ -5,7 +5,7 @@ import SoftwareEngineer from 'nevesgmd';
 
 class Bio extends SoftwareEngineer {
   name     = 'Gabriel Neves';
-  title    = 'Back-end Engineer';
+  title    = 'Back-end Developer';
   company  = 'Stone Co.';
   location = 'Florianópolis, SC - Brazil';
 }
