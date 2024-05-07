@@ -12,7 +12,7 @@ class Bio extends SoftwareEngineer {
 
 class Skills extends SoftwareEngineer {
   languages  = ['Python', 'C#', 'Javascript'];
-  frameworks = ['Flask', 'FastAPI', 'ASP.NET WEB API', 'React'];
+  frameworks = ['Django', 'FastAPI', 'Flask', 'ASP.NET WEB API', 'React'];
   databases  = ['MongoDB', 'PostgreSQL', 'SQL Server'];
 }
 ```
